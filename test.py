@@ -6,7 +6,7 @@ url = "https://seorwrpmwh.execute-api.us-east-1.amazonaws.com/prod/mp11"
 
 student = {
     "submitterEmail": "liqingl2@ellinois.edu",  # <Your coursera account email>
-    "secret": "https://qrk22jfw3fwag5kzmenxdrkg2u0nxhxx.lambda-url.us-east-1.on.aws/"  # <Your secret token from coursera>
+    "secret": "Ux5OV1AKNiGRHGuI"  # <Your secret token from coursera>
 }
 lambda_url = "https://d5sgadicepzjz3qk2jtsxztx5m0wllmk.lambda-url.us-east-1.on.aws/"
 
